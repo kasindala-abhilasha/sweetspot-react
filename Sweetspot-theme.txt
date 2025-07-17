@@ -1,0 +1,24 @@
+1) Theme - Minimalistic, Customer Centric, Use of Lines or Slogans that ensure users connection to sweetspot.
+  
+
+2) Background - white
+
+3) Colours to be used - rgba(224, 99, 99, 0.85); //main colour that is to be prioritised
+		      - rgba(224, 99, 216, 0.85); rgba(220, 117, 186, 0.92); rgba(215, 135, 157, 1); rgba(219, 117, 128, 0.925); //alternatives if incase main colour is not suitable
+		      - Colours other than these can be used but must not be prominent in the design.
+
+4) Font - parastoo from google fonts
+
+       //Below are the text sizes for window screen only (must be maintained across all pages)
+       Headings:  text-5xl, text-[rgba(79,79,79,0.66)] 
+       Side headings: text-3xl, text-[rgba(79,79,79,0.7)] 
+       small quotes - xl <-> sm, text-[rgba(79,79,79,0.7)] (italic)
+       content - any suitable size, text can be black, [rgba(79,79,79,0.7)] or colours in 3rd section
+
+       To highlights words in text, the colours in 3rd section can be used.
+       
+       Other fonts like inter, Serif can be used but must not be prominent.
+
+5) references - https://www.swtspotcakes.com/ for understanding the theme of the website
+	      - https://sweetspots.netlify.app/ for proper understanding of the design rules. [This is not the final homepage]
+	      - https://cremecastle.in/ for understanding the designs of functionalites.

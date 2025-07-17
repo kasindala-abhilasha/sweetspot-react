@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Fudge Delight",
+    "price": 899,
+    "rating": 4.8,
+    "category": "Chocolate",
+    "image": "https://img.freepik.com/premium-photo/chocolate-cake-with-with-berries_839035-219335.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Dream Cake",
+    "price": 749,
+    "rating": 4.6,
+    "category": "Vanilla",
+    "image": "https://www.cakeforest.co.uk/cdn/shop/products/RC-56.jpg?v=1667032565&width=480"
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet",
+    "price": 999,
+    "rating": 4.9,
+    "category": "Red Velvet",
+    "image": "https://bakewithzoha.com/wp-content/uploads/2024/09/red-velvet-cake-featured-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Bliss",
+    "price": 849,
+    "rating": 4.7,
+    "category": "Fruit",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.fm18btj9Y39jdAraQ9WhOgHaHa"
+  },
+  {
+    "id": 5,
+    "name": "Black Forest Special",
+    "price": 1099,
+    "rating": 4.8,
+    "category": "Chocolate",
+    "image": "https://www.giftjaipur.com/image/cache/catalog/double-tier-birthday-special-black-forest-cake-500x500.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lemon Zest Cake",
+    "price": 699,
+    "rating": 4.5,
+    "category": "Citrus",
+    "image": "http://www.freefromheaven.com/wp-content/uploads/2015/09/Lemon-zest-cake-88-Photography.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Butterscotch Crunch",
+    "price": 799,
+    "rating": 4.6,
+    "category": "Butterscotch",
+    "image": "https://images.horchow.com/ca/3/product_assets/Q/5/2/L/T/HCQ52LT_mu.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mango Surprise",
+    "price": 889,
+    "rating": 4.7,
+    "category": "Fruit",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.3RTkH2neXW380fQdAUTW9AHaJQ"
+  },
+  {
+    "id": 9,
+    "name": "Caramel Dream",
+    "price": 799,
+    "rating": 4.4,
+    "category": "Caramel",
+    "image": "https://img.freepik.com/premium-photo/caramel-cakes_889779-2386.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blueberry Bliss",
+    "price": 899,
+    "rating": 4.5,
+    "category": "Fruit",
+    "image": "https://www.vibrantplate.com/wp-content/uploads/2016/09/Blueberry-Mascarpone-Cake-07-735x1103.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Coffee Crumble",
+    "price": 829,
+    "rating": 4.6,
+    "category": "Coffee",
+    "image": "https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/10/1600x2258/54f8fdd99d145_-_coffee-crumb-cake.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Spice Symphony",
+    "price": 749,
+    "rating": 4.3,
+    "category": "Spice",
+    "image": "https://gingersnapsbakingaffairs.com/wp-content/uploads/2023/10/chai-spice-cake-recipe-1200px-1024x1536.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Pineapple Paradise",
+    "price": 859,
+    "rating": 4.7,
+    "category": "Fruit",
+    "image": "https://eatyrecipes.com/wp-content/uploads/2025/02/a-close-up-shot-of-a-beautifully-frosted-pineapple.webp"
+  },
+  {
+    "id": 14,
+    "name": "Nutty Heaven",
+    "price": 919,
+    "rating": 4.5,
+    "category": "Nuts",
+    "image": "https://ocakes.in/storage/app/public/images/item/item-65f024eb1becb.webp"
+  },
+  {
+    "id": 15,
+    "name": "Orange Tango",
+    "price": 679,
+    "rating": 4.2,
+    "category": "Citrus",
+    "image": "https://www.aberdeenskitchen.com/wp-content/uploads/2020/07/Orange-Cake-with-Zesty-Cream-Cheese-Frosting-FI-1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Mint Velvet",
+    "price": 709,
+    "rating": 4.3,
+    "category": "Mint",
+    "image": "https://tatyanaseverydayfood.com/wp-content/uploads/2022/12/Mint-Chocolate-Cake-Recipe-4.jpg"
+  }
+]
